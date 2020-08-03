@@ -12,5 +12,22 @@ The project has the following salient features :-
      
 The project also shows the backtracking algorithm in action. Just hit the "Space" button and see it for yourself.  
 
-Want to enjoy the puzzle on your local machine ? Just clone the repository into your local machine. 
+Want to enjoy the puzzle on your local machine ? Just clone the repository into your local machine.   
+
+Follow the below steps to run the program on your local machine :- 
+
+1) Make sure to have the neccessary libraries mentioned in requirements.txt. 
+   Download latest Python version : https://www.python.org/downloads/ 
+   Download latest Pygame version : https://www.pygame.org/download.shtml
+   You can also download them using "pip" if you're on a Linux based system. 
+
+2) Open the terminal on your system and navigate to the folder that has the file main.py. 
+
+3) Type "python3 main.py" on your terminal and hit Enter. For first time playing , program might take up to few seconds or at max 
+   a minute to load. Finally , enjoy !!! 
+   
+   
+If you want to solve a new Sudoku Board , edit the main.py file. Within that file you will find the main board that is displayed 
+on your screen. Find a valid board from the web and replace the existing board with the new one.
+   
 
