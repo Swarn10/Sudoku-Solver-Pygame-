@@ -1,0 +1,4 @@
+Following are the requirements to play the game on your local machine :- 
+1) Python 3.6 or higher 
+2) Pygame 
+Please consider the README.MD file to more about how to get the above if you do not have them already on your machine.
